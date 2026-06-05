@@ -1,0 +1,6 @@
+# Ignore all files in scratch directory
+# These are working notes and should not be committed
+*
+
+# But allow .gitignore itself
+!.gitignore
